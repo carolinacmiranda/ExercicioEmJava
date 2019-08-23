@@ -28,7 +28,7 @@ Lembre-se de usar os 4 pilares da Orientação a Objetos (Abstração,
 Encapsulamento, Herança e Polimorfismo) para a realização do teste.
 
 # Instruções para execução
-1 - Baixar o projeto 
-2 - Importar para a IDE de sua preferência
-3 - O método main se encontra no caminho /src/animais/Animais.java
+1 - Baixar o projeto <br/>
+2 - Importar para a IDE de sua preferência <br/>
+3 - O método main se encontra no caminho /src/animais/Animais.java <br/>
 4 - Executar arquivo Animais.java

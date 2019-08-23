@@ -26,3 +26,9 @@ Você deverá implementar uma forma de input para os dados dos 4 animais e
 imprimir os seus valores.
 Lembre-se de usar os 4 pilares da Orientação a Objetos (Abstração,
 Encapsulamento, Herança e Polimorfismo) para a realização do teste.
+
+# Instruções para execução
+1 - Baixar o projeto 
+2 - Importar para a IDE de sua preferência
+3 - O método main se encontra no caminho /src/animais/Animais.java
+4 - Executar arquivo Animais.java

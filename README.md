@@ -1,4 +1,4 @@
-# TesteLett.Digital
+# Exercício
 Essa tarefa consiste em medir seu nível de conhecimento em Orientação a
 Objetos.
 Você deverá implementar uma solução que represente os animais de uma fazenda.

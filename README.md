@@ -36,5 +36,5 @@ Encapsulamento, Herança e Polimorfismo) para a realização do teste.
 # Instruções para execução
 1 - Baixar o projeto <br/>
 2 - Importar para a IDE de sua preferência <br/>
-3 - O método main se encontra no caminho /src/animais/Animais.java <br/>
+3 - O método main se encontra no caminho ExercicioEmJava/src/animais/Animais.java <br/>
 4 - Executar arquivo Animais.java

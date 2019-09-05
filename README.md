@@ -1,4 +1,5 @@
 # Exercício
+
 Essa tarefa consiste em medir seu nível de conhecimento em Orientação a
 Objetos.
 Você deverá implementar uma solução que represente os animais de uma fazenda.
@@ -33,7 +34,8 @@ imprimir os seus valores.
 Lembre-se de usar os 4 pilares da Orientação a Objetos (Abstração,
 Encapsulamento, Herança e Polimorfismo) para a realização do teste.
 
-# Instruções para execução
+# Instruções para execução:
+
 1 - Baixar o projeto <br/>
 2 - Importar para a IDE de sua preferência <br/>
 3 - O método main se encontra no caminho ExercicioEmJava/src/animais/Animais.java <br/>
